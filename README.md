@@ -19,7 +19,7 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
   - r squred, linear regression, hot-one encoding, etc. 
 
 ## File Structure 
-
+- add descpition of the files or models? 
 
 ## Setup Instructions
 
