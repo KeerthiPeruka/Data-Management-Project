@@ -8,8 +8,15 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
 - Data Cleaning
    - Removing missing values
    - Finding Outliers
-      
-- Graphic Modelts 
+   
+- Machine Learning
+   - 
+
+- SQL Components
+   - 
+
+- Models
+  - r squred, linear regression, hot-one encoding, etc. 
 
 ## File Structure 
 
