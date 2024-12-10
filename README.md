@@ -12,7 +12,7 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
 
 ## Setup Instructions
 
-## 1. Ensure Following Libraries Can Run 
+### 1. Ensure Following Libraries Can Run 
   - pandas
   - numpy
   - matplotlib.pyplot
