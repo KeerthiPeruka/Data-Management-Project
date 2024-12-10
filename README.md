@@ -6,11 +6,11 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
 
 # Setup Instructions 
 
-# 1. 
+### 1. 
 
-# 2. 
+### 2. 
 
-# 3. 
+### 3. 
 
-# 4. Running the Analysis Notebook 
+### 4. Running the Analysis Notebook 
 Open and run each cell of the Jupyter Notebook (insert notebook name) to observe the models and findings. 
