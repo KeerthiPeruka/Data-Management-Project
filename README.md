@@ -6,18 +6,23 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
 
 ## Features 
 
+
 ## File Structure 
 
-## Setup Instructions 
 
-### 1. 
+## Setup Instructions
 
-### 2. 
+## 1. Ensure Following Libraries Can Run 
+  - pandas
+  - numpy
+  - matplotlib.pyplot
+  - seaborn
+  - sqlite3
+  - sklearn
+  - sqlalchemy
 
-### 3. 
-
-### 4. Running the Analysis Notebook 
-Open and run each cell of the Jupyter Notebook (insert notebook name) to observe the models and findings. 
+### 2. Running the Analysis Notebook 
+Open and run each cell of the Jupyter Notebook linkedin_anyalsis.ipynb to observe the models and findings. 
 
 ## Demo Video 
 For a more in-depth understanding of the content in this project, the demo video can be found at: 
