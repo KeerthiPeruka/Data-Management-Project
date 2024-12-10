@@ -3,3 +3,14 @@ The objective of this project is to analyze the factors influencing the success 
 
 # Dataset 
 The dataset that this project uses can be found at Kaggle: https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/data
+
+# Setup Instructions 
+
+# 1. 
+
+# 2. 
+
+# 3. 
+
+# 4. Running the Analysis Notebook 
+Open and run each cell of the Jupyter Notebook (insert notebook name) to observe the models and findings. 
