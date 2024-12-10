@@ -6,8 +6,8 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
 
 ## Features 
 - Data Cleaning
-      Removing missing values
-      Finding Outliers
+   --Removing missing values
+   --Finding Outliers
       
 - Graphic Modelts 
 
