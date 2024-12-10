@@ -4,7 +4,7 @@ The objective of this project is to analyze the factors influencing the success 
 ## Dataset 
 The dataset that this project uses can be found at Kaggle: https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/data
 
-# Setup Instructions 
+## Setup Instructions 
 
 ### 1. 
 
