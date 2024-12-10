@@ -1,2 +1,2 @@
-# Data-Science-210-Project
+# linkedin-job-success-anaylysis
 LinkedIn Job Posting Success Analysis
