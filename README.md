@@ -5,21 +5,44 @@ The objective of this project is to analyze the factors influencing the success 
 The dataset that this project uses can be found at Kaggle: https://www.kaggle.com/datasets/arshkon/linkedin-job-postings/data
 
 ## Features 
+- Data Preparation
+   - Importing Libraries
+   - Reading the Dataset
 - Data Cleaning
-   - Removing missing values
-   - Finding Outliers
-   
+   - Handling Missing Values
+   - Standardizing Data Format
+- Feature Engineering
+   - Creating New Data Columns
+   - One-Hot Encoding Categorical Features
+   - Removing Outliers
+- Data Storage
+   - Saving Data Statistics in SQLite
+   - Storing Cleaned Dataset in SQLite
+- Data Visualization
+   -  Bar Charts
+      - Top Job Locations
+      - Employment Type Distribution
+   -  Histogram
+      - Salary Distribution   
+   -  Correlation Matrix
+      - Correlation of Features with Job Applications    
+   -  Scatter plot
+      - Comparing Application vs. Views    
 - Machine Learning
-   - 
-
+   - Splitting Data into Training and Test Data
+   - Regression Models
+     - Random Forest
+     - Linear Regression
+     - Gradient Boosting    
 - SQL Components
-   - 
-
-- Models
-  - r squred, linear regression, hot-one encoding, etc. 
+   - Storing Model Predictions and Metrics in SQLite
+   - Retrieving and Querying Data from SQLite
 
 ## File Structure 
-- add descpition of the files or models? 
+- file_name.ipynb : Jupter notebook with main code for data analysis and model training
+- cleaned_postings.csv : Cleaned dataset after preprocessing
+- job_postings_encoded.csv : One hot encoded dataset for machine learning models
+- linkedin_postings.db : SQLite database for storing cleaned dataset and results from the model
 
 ## Setup Instructions
 
