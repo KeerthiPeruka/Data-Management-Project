@@ -59,5 +59,3 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
 ### 2. Running the Analysis Notebook 
 Open and run each cell of the Jupyter Notebook linkedin_analysis.ipynb to observe the models and findings. 
 
-## Demo Video 
-For a more in-depth understanding of the content in this project, the demo video can be found at: 
