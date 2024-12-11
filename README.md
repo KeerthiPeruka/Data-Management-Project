@@ -39,7 +39,7 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
    - Retrieving and Querying Data from SQLite
 
 ## File Structure 
-- file_name.ipynb : Jupter notebook with main code for data analysis and model training
+- linkedin_analysis.ipynb : Jupter notebook with main code for data analysis and model training
 - cleaned_postings.csv : Cleaned dataset after preprocessing
 - job_postings_encoded.csv : One hot encoded dataset for machine learning models
 - linkedin_postings.db : SQLite database for storing cleaned dataset and results from the model
@@ -57,7 +57,7 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
   - collections
 
 ### 2. Running the Analysis Notebook 
-Open and run each cell of the Jupyter Notebook linkedin_anyalsis.ipynb to observe the models and findings. 
+Open and run each cell of the Jupyter Notebook linkedin_analysis.ipynb to observe the models and findings. 
 
 ## Demo Video 
 For a more in-depth understanding of the content in this project, the demo video can be found at: 
