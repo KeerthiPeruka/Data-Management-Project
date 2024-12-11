@@ -54,6 +54,7 @@ The dataset that this project uses can be found at Kaggle: https://www.kaggle.co
   - sqlite3
   - sklearn
   - sqlalchemy
+  - collections
 
 ### 2. Running the Analysis Notebook 
 Open and run each cell of the Jupyter Notebook linkedin_anyalsis.ipynb to observe the models and findings. 
